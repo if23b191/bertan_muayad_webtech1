@@ -1,6 +1,6 @@
 <?php
     session_start();
-    $page = "bertanucker";
+    $page = "hotel";
     $changeInformation=false;
     $signInFalse=false;
     if(isset($_GET["hotel"])){
